@@ -1,4 +1,4 @@
-# Pertemuan 2
+# Jobsheet 2
 
 ## Nama     : Azka Anasiyya Haris 
 ## Kelas    : TI 3G / 08
